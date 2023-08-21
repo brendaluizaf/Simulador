@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class trab2 {
     public static void main(String[] args) { /*Método principal */
-        String[] listaPalavras = { "JAVA", "PYTHON", "CPLUSPLUS", "JAVASCRIPT", "RUBY", "PHP" }; /*Lista do array */
+        String[] listaPalavras = { "CACAU", "PEIXE", "MACARRAO", "CHOCOLATE", "RABANETE", "RISOTO" }; /*Lista do array */
         Random random = new Random(); /*Biblioteca que permite gerar dados aleatórios */
         Scanner entrada = new Scanner(System.in);/*Permite a inserção dos dados pelo usuário */
         System.out.println("1-Iniciar");
